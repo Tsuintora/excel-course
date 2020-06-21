@@ -1,0 +1,24 @@
+{
+  "name": "excel-course.loc",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tsuintora/excel-course.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Tsuintora",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tsuintora/excel-course/issues"
+  },
+  "homepage": "https://github.com/Tsuintora/excel-course#readme"
+}
